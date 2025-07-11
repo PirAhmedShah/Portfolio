@@ -65,9 +65,9 @@ export default [
         "ignorePackages",
         {
           js: "never",
-          ts: "never",
+          ts: "always",
           mjs: "never",
-          mts: "never",
+          mts: "always",
         },
       ],
 
